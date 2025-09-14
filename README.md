@@ -33,10 +33,21 @@ SQL
 Power Bi
 
 ## Dashboard
-    git add C:\Users\admin\Desktop\Resume project\Ola\ORiginal Data\Dashboard pics\1
     
+
+<img width="766" height="432" alt="1" src="https://github.com/user-attachments/assets/ffda938a-e001-4089-96df-2f3a8b5a0ff3" />
+
+<img width="755" height="429" alt="2" src="https://github.com/user-attachments/assets/baaa21ea-a7b4-4879-989f-79a84e54fde2" />
+
+<img width="761" height="432" alt="3" src="https://github.com/user-attachments/assets/7e038606-2cf7-4201-8e34-0bc4e48bb0ea" />
+
+<img width="750" height="428" alt="4" src="https://github.com/user-attachments/assets/474b2fce-6804-4bda-a05e-acc5d68c580b" />
+
+<img width="764" height="430" alt="5" src="https://github.com/user-attachments/assets/6e355309-0d42-4510-ad5c-66728e79dc11" />
+
 ## Authors
 
 - [@Saurabh Siingh](https://www.github.com/Saurabh-Siingh)
 - Email : saurabh.singh807645@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/saurabh-singh-704493281/)
+
